@@ -1,0 +1,272 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "problems": [
+    "missing: @angular/animations@10.0.5, required by blog@0.0.0",
+    "missing: @angular/common@10.0.5, required by blog@0.0.0",
+    "missing: @angular/compiler@10.0.5, required by blog@0.0.0",
+    "missing: @angular/core@10.0.5, required by blog@0.0.0",
+    "missing: @angular/forms@10.0.5, required by blog@0.0.0",
+    "missing: @angular/platform-browser@10.0.5, required by blog@0.0.0",
+    "missing: @angular/platform-browser-dynamic@10.0.5, required by blog@0.0.0",
+    "missing: @angular/router@10.0.5, required by blog@0.0.0",
+    "missing: @fortawesome/fontawesome-svg-core@1.2.30, required by blog@0.0.0",
+    "missing: @fortawesome/free-brands-svg-icons@5.14.0, required by blog@0.0.0",
+    "missing: @fortawesome/free-regular-svg-icons@5.14.0, required by blog@0.0.0",
+    "missing: @fortawesome/free-solid-svg-icons@5.14.0, required by blog@0.0.0",
+    "missing: bootstrap@4.5.0, required by blog@0.0.0",
+    "missing: jquery@3.4.1, required by blog@0.0.0",
+    "missing: tslib@2.0.0, required by blog@0.0.0",
+    "missing: tslib@2.0.0, required by @angular/animations@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/common@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/compiler@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/core@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/forms@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/platform-browser@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/platform-browser-dynamic@10.0.5",
+    "missing: tslib@2.0.0, required by @angular/router@10.0.5",
+    "missing: tslib@2.0.0, required by @fortawesome/angular-fontawesome@0.7.0",
+    "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/fontawesome-svg-core@1.2.30",
+    "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-brands-svg-icons@5.14.0",
+    "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-regular-svg-icons@5.14.0",
+    "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-solid-svg-icons@5.14.0",
+    "missing: tslib@1.13.0, required by rxjs@6.5.5"
+  ],
+  "dependencies": {
+    "@angular/animations": {
+      "version": "10.0.5",
+      "from": "@angular/animations@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/animations/-/animations-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/animations@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/common": {
+      "version": "10.0.5",
+      "from": "@angular/common@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/common/-/common-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/common@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/compiler": {
+      "version": "10.0.5",
+      "from": "@angular/compiler@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/compiler/-/compiler-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/compiler@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/core": {
+      "version": "10.0.5",
+      "from": "@angular/core@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/core/-/core-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/core@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/forms": {
+      "version": "10.0.5",
+      "from": "@angular/forms@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/forms/-/forms-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/forms@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/platform-browser": {
+      "version": "10.0.5",
+      "from": "@angular/platform-browser@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/platform-browser@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/platform-browser-dynamic": {
+      "version": "10.0.5",
+      "from": "@angular/platform-browser-dynamic@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/platform-browser-dynamic@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@angular/router": {
+      "version": "10.0.5",
+      "from": "@angular/router@10.0.5",
+      "resolved": "https://registry.npmjs.org/@angular/router/-/router-10.0.5.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @angular/router@10.0.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@fortawesome/angular-fontawesome": {
+      "version": "0.7.0",
+      "from": "@fortawesome/angular-fontawesome@^0.7.0",
+      "resolved": "https://registry.npmjs.org/@fortawesome/angular-fontawesome/-/angular-fontawesome-0.7.0.tgz",
+      "problems": [
+        "missing: tslib@2.0.0, required by @fortawesome/angular-fontawesome@0.7.0"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "2.0.0",
+          "from": "tslib@2.0.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+        }
+      }
+    },
+    "@fortawesome/fontawesome-svg-core": {
+      "version": "1.2.30",
+      "from": "@fortawesome/fontawesome-svg-core@1.2.30",
+      "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.30.tgz",
+      "problems": [
+        "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/fontawesome-svg-core@1.2.30"
+      ],
+      "dependencies": {
+        "@fortawesome/fontawesome-common-types": {
+          "version": "0.2.30",
+          "from": "@fortawesome/fontawesome-common-types@0.2.30",
+          "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.30.tgz"
+        }
+      }
+    },
+    "@fortawesome/free-brands-svg-icons": {
+      "version": "5.14.0",
+      "from": "@fortawesome/free-brands-svg-icons@5.14.0",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-5.14.0.tgz",
+      "problems": [
+        "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-brands-svg-icons@5.14.0"
+      ],
+      "dependencies": {
+        "@fortawesome/fontawesome-common-types": {
+          "version": "0.2.30",
+          "from": "@fortawesome/fontawesome-common-types@0.2.30",
+          "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.30.tgz"
+        }
+      }
+    },
+    "@fortawesome/free-regular-svg-icons": {
+      "version": "5.14.0",
+      "from": "@fortawesome/free-regular-svg-icons@5.14.0",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-5.14.0.tgz",
+      "problems": [
+        "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-regular-svg-icons@5.14.0"
+      ],
+      "dependencies": {
+        "@fortawesome/fontawesome-common-types": {
+          "version": "0.2.30",
+          "from": "@fortawesome/fontawesome-common-types@0.2.30",
+          "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.30.tgz"
+        }
+      }
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "version": "5.14.0",
+      "from": "@fortawesome/free-solid-svg-icons@5.14.0",
+      "resolved": "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.14.0.tgz",
+      "problems": [
+        "missing: @fortawesome/fontawesome-common-types@0.2.30, required by @fortawesome/free-solid-svg-icons@5.14.0"
+      ],
+      "dependencies": {
+        "@fortawesome/fontawesome-common-types": {
+          "version": "0.2.30",
+          "from": "@fortawesome/fontawesome-common-types@0.2.30",
+          "resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.30.tgz"
+        }
+      }
+    },
+    "bootstrap": {
+      "version": "4.5.0",
+      "from": "bootstrap@4.5.0",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-4.5.0.tgz"
+    },
+    "jquery": {
+      "version": "3.4.1",
+      "from": "jquery@3.4.1",
+      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.4.1.tgz"
+    },
+    "popper.js": {
+      "version": "1.16.1",
+      "from": "popper.js@^1.16.1",
+      "resolved": "https://registry.npmjs.org/popper.js/-/popper.js-1.16.1.tgz"
+    },
+    "rxjs": {
+      "version": "6.5.5",
+      "from": "rxjs@~6.5.5",
+      "resolved": "https://registry.npmjs.org/rxjs/-/rxjs-6.5.5.tgz",
+      "problems": [
+        "missing: tslib@1.13.0, required by rxjs@6.5.5"
+      ],
+      "dependencies": {
+        "tslib": {
+          "version": "1.13.0",
+          "from": "tslib@1.13.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-1.13.0.tgz"
+        }
+      }
+    },
+    "tslib": {
+      "version": "2.0.0",
+      "from": "tslib@2.0.0",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.0.0.tgz"
+    },
+    "zone.js": {
+      "version": "0.10.3",
+      "from": "zone.js@~0.10.3",
+      "resolved": "https://registry.npmjs.org/zone.js/-/zone.js-0.10.3.tgz"
+    }
+  }
+}
